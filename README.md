@@ -3,10 +3,10 @@ Application is implemented using MVC architectural style. It represents controll
 
 ## Table of Contents
 - [Features](#features)
-- [Setup and Installation](#installation)
+- [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Technologies](#technologies)
-- [Prerequisities](#prerequisites)
+- [Prerequisites](#prerequisites)
 - [Contributing](#contributing)
 
 ## Features
@@ -56,7 +56,7 @@ By default application will run on http://localhost:8080.
 - MySQL
 - Maven
 
-## Prerequisities
+## Prerequisites
 
 Before running the application, ensure the following are installed:
 
